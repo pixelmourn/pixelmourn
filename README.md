@@ -25,7 +25,7 @@
 
 ### 🔥 Current Project
 
-**🕹 Working on:** *[Only One Game]*  
+**🕹 Working on:** *[Only One Game/only1game]*  
 > A 2D atmospheric story-driven pixel adventure
 
 ---
