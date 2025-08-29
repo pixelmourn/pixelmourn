@@ -34,7 +34,7 @@
 
 - 📸 Instagram: [@Pixelmourn](https://instagram.com/pixelmourn)
 - 📧 Email: pixelmourn@gmail.com
-- 🌍 Website: pixelmourn.com
+- 🌍 Website: https://pixelmourn.com/
 
 ---
 
